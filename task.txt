@@ -1,0 +1,12 @@
+1. Buat ERD yang minimal memiliki 3 entity (table) di bawah ini:
+    - User
+    - Items
+    - Orders
+
+2. Ubah nama table:
+    - Customer => users
+    - Product => items
+
+3. Tambahkan attributes ke setiap table yang sudah dibuat
+berdasarkan ERD yg teman-teman buat.
+

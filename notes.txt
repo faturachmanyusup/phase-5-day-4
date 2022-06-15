@@ -1,0 +1,5 @@
+Setiap table umumnya memiliki:
+  - id => sebagai identifier
+  - created_at => informasi kapan data tersebut dimasukan/tercreate ke dalam database
+  - updated_at => informasi kapan terakhir kali data tersebut dirubah
+  - updated_by => informasi siapa yang terakhir kali merubah data tersebut dirubah
